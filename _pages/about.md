@@ -21,7 +21,10 @@ redirect_from:
 \* for corresponding author.
 
 # Awards
-
+- Excellent Doctoral Dissertation Award of the Chinese Academy of Sciences (approximately 100 selected annually from UCAS and USTC)
+- CAS President Scholarship
+- ICRA 2024 The RoboDrive Challenge Track 2: Robust Map Segmentation **1st Place**
+- The 8th National Conference on Social Media Processing The Evaluation of Chinese Judicial Reading Comprehension Technology **1st Place**
 # Experiences
 
 
