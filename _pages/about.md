@@ -15,18 +15,19 @@ redirect_from:
 - Research interests: Design, Optimization, and Application of Large Language Models and Multimodal Large Models.
 
 # News
-
+- *2025.5*: Congrats! Our two papers have been accepted by ACL 2025! 
 
 # Publications 
 \* for corresponding author.
-
+- ``ACL 2025`` [Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level](https://arxiv.org/abs/2410.06809), Xinyi Zeng, Yuying Shang, Jiawei Chen, Jingyuan Zhang, **Yu Tian\***.
+- ``ACL 2025`` [TUNA: Comprehensive Fine-grained Temporal Understanding Evaluation on Dense Dynamic Videos](https://arxiv.org/abs/2505.20124), Fanheng Kong, Jingyuan Zhang, Hongzhi Zhang, Shi Feng, Daling Wang, Linhao Yu, Xingguang Ji, **Yu Tian**, Victoria W., Fuzheng Zhang
+- 
 # Awards
 - Excellent Doctoral Dissertation Award of the Chinese Academy of Sciences (approximately 100 selected annually from UCAS and USTC)
 - CAS President Scholarship
 - ICRA 2024 The RoboDrive Challenge Track 2: Robust Map Segmentation **1st Place**
 - The 8th National Conference on Social Media Processing The Evaluation of Chinese Judicial Reading Comprehension Technology **1st Place**
-# Experiences
-
-
+  
 # Academic Services
-
+- PC Member: ACL Rolling Review, ICLR, AAAI
+- Journal Reviewer: TKDD, Pattern Recognition
