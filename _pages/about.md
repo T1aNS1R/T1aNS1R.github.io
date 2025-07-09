@@ -31,7 +31,7 @@ redirect_from:
 - ``Neurocomputing`` [Graph-enhanced context aware framework for session-based recommendation](https://drive.google.com/file/d/1gqcKRgZw5Cw1E-JIZ6TlWJ4yL6Aqtr-1/view), Xinyi Zeng, Zequn Zhang, Shuchao Li, Zhi Guo, **Yu Tian**, Li Jin, Xian Sun.
 - ``Arxiv`` [Bspa: Exploring black-box stealthy prompt attacks against image generators](https://arxiv.org/abs/2402.15218), **Yu Tian**, Xiao Yang, Yinpeng Dong, Heming Yang, Hang Su, Jun Zhu.
 - ``Arxiv`` [Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/abs/2311.11855), **Yu Tian**, Xiao Yang, Jingyuan Zhang, Yinpeng Dong, Hang Su.
-- ``Arxiv`` [How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org/abs/2309.11751), Yinpeng Dong, Huanran Chen, Jiawei Chen, Zhengwei Fang, Xiao Yang, Yichi Zhang, **Yu Tian**, Hang Su, Jun Zhu.
+- ``NeurIPS 2023 R0-FoMo`` [How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org/abs/2309.11751), Yinpeng Dong, Huanran Chen, Jiawei Chen, Zhengwei Fang, Xiao Yang, Yichi Zhang, **Yu Tian**, Hang Su, Jun Zhu.
 # Awards
 - Excellent Doctoral Dissertation Award of the Chinese Academy of Sciences (approximately 100 selected annually from UCAS and USTC)
 - CAS President Scholarship
