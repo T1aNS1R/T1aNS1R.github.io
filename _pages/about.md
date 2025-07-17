@@ -20,7 +20,7 @@ redirect_from:
 - *2025.5*: Congrats! Our two papers have been accepted by ACL 2025! 
 
 # Publications 
-\* for corresponding author, \# for corresponding author.
+\* for corresponding author, <sup>\#</sup> for corresponding author.
 - ``ACM MM 2025`` [From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2410.06795), Yuying Shang, Xinyi Zeng, Yutao Zhu, Xiao Yang, Zhengwei Fang, Jingyuan Zhang, Jiawei Chen, Zinan Liu, **Yu Tian\***.
 - ``ACL 2025`` [Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level](https://arxiv.org/abs/2410.06809), Xinyi Zeng, Yuying Shang, Jiawei Chen, Jingyuan Zhang, **Yu Tian\***.
 - ``ACL 2025`` [TUNA: Comprehensive Fine-grained Temporal Understanding Evaluation on Dense Dynamic Videos](https://arxiv.org/abs/2505.20124), Fanheng Kong, Jingyuan Zhang, Hongzhi Zhang, Shi Feng, Daling Wang, Linhao Yu, Xingguang Ji, **Yu Tian**, Victoria W., Fuzheng Zhang.
@@ -34,7 +34,7 @@ redirect_from:
 - ``NeurIPS 2023 R0-FoMo`` [How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org/abs/2309.11751), Yinpeng Dong, Huanran Chen, Jiawei Chen, Zhengwei Fang, Xiao Yang, Yichi Zhang, **Yu Tian**, Hang Su, Jun Zhu.
 - ``Science China Information Sciences`` [From single-to multi-modal remote sensing imagery interpretation: A survey and taxonomy](https://link.springer.com/article/10.1007/s11432-022-3588-0), Xian Sun, **Yu Tian**, Wanxuan Lu, Peijin Wang, Ruigang Niu, Hongfeng Yu, Kun Fu
 - ``ISPRS`` [Fully-weighted HGNN: Learning efficient non-local relations with hypergraph in aerial imagery](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001733), **Yu Tian**, Xian Sun, Ruigang Niu, Hongfeng Yu, Zicong Zhu, Peijin Wang, Kun Fu
-- ``COLING 2022`` [Coarse-to-Fine: Hierarchical Multi-task Learning for Natural Language Understanding](https://aclanthology.org/2022.coling-1.439/), Zhaoye Fei\#, **Yu Tian\#**, Yongkang Wu\#, Xinyu Zhang\#, Yutao Zhu, Zheng Liu, Jiawen Wu, Dejiang Kong, Ruofei Lai, Zhao Cao, Zhicheng Dou, Xipeng Qiu
+- ``COLING 2022`` [Coarse-to-Fine: Hierarchical Multi-task Learning for Natural Language Understanding](https://aclanthology.org/2022.coling-1.439/), Zhaoye Fei<sup>\#</sup>, **Yu Tian**<sup>\#</sup>, Yongkang Wu<sup>\#</sup>, Xinyu Zhang<sup>\#</sup>, Yutao Zhu, Zheng Liu, Jiawen Wu, Dejiang Kong, Ruofei Lai, Zhao Cao, Zhicheng Dou, Xipeng Qiu
 
 # Awards
 - Excellent Doctoral Dissertation Award of the Chinese Academy of Sciences (approximately 100 selected annually from UCAS and USTC)
