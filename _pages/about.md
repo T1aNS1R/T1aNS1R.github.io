@@ -16,7 +16,7 @@ redirect_from:
 
 # News
 
-- *2025.5*: Congrats! Our paper has been accepted by ACM MM 2025! 
+- *2025.7*: Congrats! Our paper has been accepted by ACM MM 2025! 
 - *2025.5*: Congrats! Our two papers have been accepted by ACL 2025! 
 
 # Publications 
