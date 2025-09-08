@@ -21,6 +21,7 @@ redirect_from:
 
 # Publications 
 \* for corresponding author, <sup>\#</sup> for equal contribution.
+- ``Arxiv`` [MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation](https://arxiv.org/abs/2509.03891), Gowen Loo, Chang Liu, Qinghong Yin, Xiang Chen, Jiawei Chen, Jingyuan Zhang, **Yu Tian\***.
 - ``ACM MM 2025`` [From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2410.06795), Yuying Shang, Xinyi Zeng, Yutao Zhu, Xiao Yang, Zhengwei Fang, Jingyuan Zhang, Jiawei Chen, Zinan Liu, **Yu Tian\***.
 - ``ACL 2025`` [Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level](https://arxiv.org/abs/2410.06809), Xinyi Zeng, Yuying Shang, Jiawei Chen, Jingyuan Zhang, **Yu Tian\***.
 - ``ACL 2025`` [TUNA: Comprehensive Fine-grained Temporal Understanding Evaluation on Dense Dynamic Videos](https://arxiv.org/abs/2505.20124), Fanheng Kong, Jingyuan Zhang, Hongzhi Zhang, Shi Feng, Daling Wang, Linhao Yu, Xingguang Ji, **Yu Tian**, Victoria W., Fuzheng Zhang.
