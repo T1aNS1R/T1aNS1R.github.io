@@ -36,7 +36,7 @@ redirect_from:
 - ``Science China Information Sciences`` [From single-to multi-modal remote sensing imagery interpretation: A survey and taxonomy](https://link.springer.com/article/10.1007/s11432-022-3588-0), Xian Sun, **Yu Tian**, Wanxuan Lu, Peijin Wang, Ruigang Niu, Hongfeng Yu, Kun Fu
 - ``ISPRS`` [Fully-weighted HGNN: Learning efficient non-local relations with hypergraph in aerial imagery](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001733), **Yu Tian**, Xian Sun, Ruigang Niu, Hongfeng Yu, Zicong Zhu, Peijin Wang, Kun Fu
 - ``COLING 2022`` [Coarse-to-Fine: Hierarchical Multi-task Learning for Natural Language Understanding](https://aclanthology.org/2022.coling-1.439/), Zhaoye Fei<sup>\#</sup>, **Yu Tian**<sup>\#</sup>, Yongkang Wu<sup>\#</sup>, Xinyu Zhang<sup>\#</sup>, Yutao Zhu, Zheng Liu, Jiawen Wu, Dejiang Kong, Ruofei Lai, Zhao Cao, Zhicheng Dou, Xipeng Qiu
-- ``IJCAI 2022`` [Hypertron: Explicit Social-Temporal Hypergraph Framework for Multi-Agent Forecasting]([https://aclanthology.org/2022.coling-1.439/](https://www.ijcai.org/proceedings/2022/0189.pdf)), **Yu Tian**, Xingliang Huang, Ruigang Niu, Hongfeng Yu, Peijin Wang, Xian Sun
+- ``IJCAI 2022`` [Hypertron: Explicit Social-Temporal Hypergraph Framework for Multi-Agent Forecasting](https://www.ijcai.org/proceedings/2022/0189.pdf), **Yu Tian**, Xingliang Huang, Ruigang Niu, Hongfeng Yu, Peijin Wang, Xian Sun
 
 # Awards
 - Excellent Doctoral Dissertation Award of the Chinese Academy of Sciences (approximately 100 selected annually from UCAS and USTC)
