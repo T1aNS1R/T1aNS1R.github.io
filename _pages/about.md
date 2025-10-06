@@ -45,5 +45,6 @@ redirect_from:
 - The 8th National Conference on Social Media Processing The Evaluation of Chinese Judicial Reading Comprehension Technology **1st Place**
   
 # Academic Services
+- AC/SPC: ACL Rolling Review
 - PC Member: ACL Rolling Review, ICLR, AAAI
 - Journal Reviewer: TKDD, Pattern Recognition
