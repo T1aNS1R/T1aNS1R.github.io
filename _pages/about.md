@@ -22,8 +22,8 @@ redirect_from:
 
 # Publications 
 \* for corresponding author, <sup>\#</sup> for equal contribution.
-- ``AAAI 2026`` [Rethinking the Reliability of Multi-agent System: A Perspective from Byzantine Fault Tolerance]([https://arxiv.org/abs/2509.03891](https://arxiv.org/abs/2511.10400)), Lifan Zheng, Jiawei Chen, Qinghong Yin, Jingyuan Zhang, Xinyi Zeng, **Yu Tian\***.
-- ``AAAI 2026`` [MultiMedBench: A Scenario-Aware Benchmark for Evaluating Knowledge Editing in Medical VQA]([https://arxiv.org/abs/2508.07022]), Shengtao Wen, Haodong Chen, Yadong Wang, Zhongying Pan, Xiang Chen, **Yu Tian**, Bo Qian, Dong Liang, Sheng-Jun Huang.
+- ``AAAI 2026`` [Rethinking the Reliability of Multi-agent System: A Perspective from Byzantine Fault Tolerance](https://arxiv.org/abs/2511.10400), Lifan Zheng, Jiawei Chen, Qinghong Yin, Jingyuan Zhang, Xinyi Zeng, **Yu Tian\***.
+- ``AAAI 2026`` [MultiMedBench: A Scenario-Aware Benchmark for Evaluating Knowledge Editing in Medical VQA](https://arxiv.org/abs/2508.07022), Shengtao Wen, Haodong Chen, Yadong Wang, Zhongying Pan, Xiang Chen, **Yu Tian**, Bo Qian, Dong Liang, Sheng-Jun Huang.
 - ``Arxiv`` [MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation](https://arxiv.org/abs/2509.03891), Gowen Loo, Chang Liu, Qinghong Yin, Xiang Chen, Jiawei Chen, Jingyuan Zhang, **Yu Tian\***.
 - ``ACM MM 2025`` [From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2410.06795), Yuying Shang, Xinyi Zeng, Yutao Zhu, Xiao Yang, Zhengwei Fang, Jingyuan Zhang, Jiawei Chen, Zinan Liu, **Yu Tian\***.
 - ``ACL 2025`` [Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level](https://arxiv.org/abs/2410.06809), Xinyi Zeng, Yuying Shang, Jiawei Chen, Jingyuan Zhang, **Yu Tian\***.
