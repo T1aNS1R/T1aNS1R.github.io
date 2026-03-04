@@ -23,7 +23,7 @@ redirect_from:
 - *2025.7*: Congrats! Our paper has been accepted by ACM MM 2025! 
 - *2025.5*: Congrats! Our two papers have been accepted by ACL 2025! 
 
-# Publications 
+# Selected Publications
 \* for corresponding author, <sup>\#</sup> for equal contribution.
 - ``AAAI 2026`` [Rethinking the Reliability of Multi-agent System: A Perspective from Byzantine Fault Tolerance](https://arxiv.org/abs/2511.10400), Lifan Zheng, Jiawei Chen, Qinghong Yin, Jingyuan Zhang, Xinyi Zeng, **Yu Tian\***.
 - ``AAAI 2026`` [MultiMedBench: A Scenario-Aware Benchmark for Evaluating Knowledge Editing in Medical VQA](https://arxiv.org/abs/2508.07022), Shengtao Wen, Haodong Chen, Yadong Wang, Zhongying Pan, Xiang Chen, **Yu Tian**, Bo Qian, Dong Liang, Sheng-Jun Huang.
