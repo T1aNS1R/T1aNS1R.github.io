@@ -15,6 +15,9 @@ redirect_from:
 - Research interests: Design, Optimization, and Application of Large Language Models and Multimodal Large Models.
 
 - I am currently on the job market for Associate Professor / Associate Research Scientist positions. Please feel free to contact me.
+
+# Motto
+- Just keep building, never stop.
   
 # News
 
