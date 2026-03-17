@@ -56,4 +56,4 @@ redirect_from:
 # Academic Services
 - AC/SPC: ACL Rolling Review
 - PC Member: ACL Rolling Review, ICLR, CVPR, AAAI, etc.
-- Journal Reviewer: TKDD, Pattern Recognition, TMM, etc.
+- Journal Reviewer: TKDD, Pattern Recognition, TMM, TNNLS, etc.
