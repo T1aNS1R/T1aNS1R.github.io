@@ -20,7 +20,7 @@ redirect_from:
 - Just keep building, never stop.
   
 # News
-- *2026.2*: Congrats! Our paper has been accepted by ECCV 2026! 
+- *2026.6*: Congrats! Our paper has been accepted by ECCV 2026! 
 - *2026.4*: Congrats! Our eight papers (4 main and 4 findings) have been accepted by ACL 2026!
 - *2026.2*: Congrats! Our paper has been accepted by CVPR 2026! 
 - *2025.11*: Congrats! Our two papers have been accepted by AAAI 2026! 
